@@ -1,6 +1,5 @@
 #Expressions and Variables
 
-
 #In this scenario, two friends are eating dinner at a restaurant. The bill comes in the amount of 47.28 dollars. The friends decide to split the bill evenly between them, after adding 15% tip for the service. Calculate the tip, the total amount to pay, and each friend's share, then output a message saying "Each person needs to pay: " followed by the resulting number.
 >>> Tip = (47.28*(15/100))
 >>> Total = (47.28)+(Tip)
@@ -33,4 +32,8 @@ How do you like Python so far?
 >>> print("2 + 2 = " + str(2+2))
 2 + 2 = 4
 
+
+#Functions
+
+#This function converts miles to kilometers (km). Complete the function to return the result of the conversion. Call the function to convert the trip distance from miles to kilometers. Fill in the blank to print the result of the conversion. Calculate the round-trip in kilometers by doubling the result, and fill in the blank to print the result
 
