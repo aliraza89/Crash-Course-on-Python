@@ -1,4 +1,4 @@
-#Crash Course on Python
+# Crash Course on Python
 
 1. Hello Python!
 2. Basic Python Syntax
