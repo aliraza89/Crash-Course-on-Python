@@ -1,6 +1,6 @@
 # Crash Course on Python
 
-1. Introduction to Python
+1. Introduction to Python :Python:
 2. Basic Python Syntax
 3. Loops
 4. Strings, Lists and Dictionaries
